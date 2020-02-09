@@ -1,0 +1,1 @@
+This is Waldemar Glaz's first git project
